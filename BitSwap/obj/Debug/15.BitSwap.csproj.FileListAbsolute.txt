@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\OperatorsAndExpressions\BitSwap\bin\Debug\BitSwap.exe.config
+D:\Orlinovski Tapotii\OperatorsAndExpressions\BitSwap\bin\Debug\BitSwap.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\BitSwap\bin\Debug\BitSwap.pdb
+D:\Orlinovski Tapotii\OperatorsAndExpressions\BitSwap\obj\Debug\15.BitSwap.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\OperatorsAndExpressions\BitSwap\obj\Debug\BitSwap.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\BitSwap\obj\Debug\BitSwap.pdb
