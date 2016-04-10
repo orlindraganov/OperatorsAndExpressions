@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\OperatorsAndExpressions\PointInACircle\bin\Debug\PointInACircle.exe.config
+D:\Orlinovski Tapotii\OperatorsAndExpressions\PointInACircle\bin\Debug\PointInACircle.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\PointInACircle\bin\Debug\PointInACircle.pdb
+D:\Orlinovski Tapotii\OperatorsAndExpressions\PointInACircle\obj\Debug\PointInACircle.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\PointInACircle\obj\Debug\PointInACircle.pdb

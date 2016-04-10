@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.exe.config
+D:\Orlinovski Tapotii\OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.pdb
+D:\Orlinovski Tapotii\OperatorsAndExpressions\OddOrEven\obj\Debug\OddOrEven.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\OddOrEven\obj\Debug\OddOrEven.pdb

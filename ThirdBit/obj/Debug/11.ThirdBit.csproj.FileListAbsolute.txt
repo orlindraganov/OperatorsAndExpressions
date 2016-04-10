@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ThirdBit\bin\Debug\ThirdBit.exe.config
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ThirdBit\bin\Debug\ThirdBit.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ThirdBit\bin\Debug\ThirdBit.pdb
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ThirdBit\obj\Debug\11.ThirdBit.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ThirdBit\obj\Debug\ThirdBit.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ThirdBit\obj\Debug\ThirdBit.pdb

@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\OperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.exe.config
+D:\Orlinovski Tapotii\OperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.pdb
+D:\Orlinovski Tapotii\OperatorsAndExpressions\Rectangles\obj\Debug\Rectangles.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\Rectangles\obj\Debug\Rectangles.pdb

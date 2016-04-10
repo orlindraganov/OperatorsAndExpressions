@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\OperatorsAndExpressions\MoonGravity\bin\Debug\MoonGravity.exe.config
+D:\Orlinovski Tapotii\OperatorsAndExpressions\MoonGravity\bin\Debug\MoonGravity.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\MoonGravity\bin\Debug\MoonGravity.pdb
+D:\Orlinovski Tapotii\OperatorsAndExpressions\MoonGravity\obj\Debug\MoonGravity.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\MoonGravity\obj\Debug\MoonGravity.pdb

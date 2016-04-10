@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe.config
+D:\Orlinovski Tapotii\OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.pdb
+D:\Orlinovski Tapotii\OperatorsAndExpressions\Trapezoids\obj\Debug\09.Trapezoids.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\OperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.pdb

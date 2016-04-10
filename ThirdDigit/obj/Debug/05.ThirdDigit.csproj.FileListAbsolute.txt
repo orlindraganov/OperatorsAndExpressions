@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ThirdDigit\bin\Debug\ThirdDigit.exe.config
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ThirdDigit\bin\Debug\ThirdDigit.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ThirdDigit\bin\Debug\ThirdDigit.pdb
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ThirdDigit\obj\Debug\ThirdDigit.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ThirdDigit\obj\Debug\ThirdDigit.pdb

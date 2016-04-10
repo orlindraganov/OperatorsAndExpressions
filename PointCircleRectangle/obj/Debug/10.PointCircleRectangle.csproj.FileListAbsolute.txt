@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\OperatorsAndExpressions\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe.config
+D:\Orlinovski Tapotii\OperatorsAndExpressions\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\PointCircleRectangle\bin\Debug\PointCircleRectangle.pdb
+D:\Orlinovski Tapotii\OperatorsAndExpressions\PointCircleRectangle\obj\Debug\PointCircleRectangle.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\PointCircleRectangle\obj\Debug\PointCircleRectangle.pdb
