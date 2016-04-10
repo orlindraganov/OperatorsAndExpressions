@@ -3,3 +3,4 @@ D:\Orlinovski Tapotii\OperatorsAndExpressions\MoonGravity\bin\Debug\MoonGravity.
 D:\Orlinovski Tapotii\OperatorsAndExpressions\MoonGravity\bin\Debug\MoonGravity.pdb
 D:\Orlinovski Tapotii\OperatorsAndExpressions\MoonGravity\obj\Debug\MoonGravity.exe
 D:\Orlinovski Tapotii\OperatorsAndExpressions\MoonGravity\obj\Debug\MoonGravity.pdb
+D:\Orlinovski Tapotii\OperatorsAndExpressions\MoonGravity\obj\Debug\02.MoonGravity.csprojResolveAssemblyReference.cache

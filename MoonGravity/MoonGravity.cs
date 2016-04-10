@@ -16,7 +16,7 @@ class MoonGravity
     {
         Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
         double weight = double.Parse(Console.ReadLine());
-        double moonGravity = 0.17F;
+        double moonGravity = 0.17;
         double weightOnMoon = weight * moonGravity;
         Console.WriteLine(weightOnMoon.ToString("F3"));
     }
