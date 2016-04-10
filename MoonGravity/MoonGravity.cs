@@ -18,6 +18,7 @@ class MoonGravity
         double weight = double.Parse(Console.ReadLine());
         double moonGravity = 0.17;
         double weightOnMoon = weight * moonGravity;
-        Console.WriteLine(weightOnMoon.ToString("F3"));
+        //Console.WriteLine(weightOnMoon.ToString("F3"));
+        Console.WriteLine("{0:0.000}",weightOnMoon);
     }
 }
