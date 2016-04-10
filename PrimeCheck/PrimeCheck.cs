@@ -16,19 +16,20 @@ class Program
 {
     static void Main()
     {
-        int n = int.Parse(Console.ReadLine());
+        int number = int.Parse(Console.ReadLine());
         bool isPrime = true;
-        if ((n <= 0) || (n == 1))
+        if ((number <= 0) || (number == 1))
         {
             isPrime = false;
         }
         else
         {
-            for (int i = 2; Math.Pow(i, 2) <= n; i++)
+            for (int i = 2; Math.Pow(i, 2) <= number; i++)
             {
-                if (n % i == 0)
+                if (number % i == 0)
                 {
                     isPrime = false;
+                    break;
                 }
             }
         }
