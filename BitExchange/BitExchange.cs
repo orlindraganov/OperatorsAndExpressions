@@ -22,23 +22,22 @@ class BitExchange
 {
     static void Main()
     {
-        uint input = uint.Parse(Console.ReadLine());
+        ulong number = ulong.Parse(Console.ReadLine());
 
         byte position1 = 3;
         byte position2 = 24;
+        byte positionsCount = 3;
 
-        uint mask1 = 7U << position1;
-        uint mask2 = 7U << position2;
-
-        uint numbers1 = (mask1 & input);
-        uint numbers2 = (mask2 & input);
-        uint change = (input & ~mask1) & ~mask2;
-
-        uint mask3 = (numbers1 >> position1) << position2;
-        uint mask4 = (numbers2 >> position2) << position1;
-
-        uint result = (change | mask3) | mask4;
-
-        Console.WriteLine(result);
+        for (int i = 1; i <= positionsCount; i++)
+        {
+            if (((number >> position1) & 1UL) != ((number >> position2) & 1UL))
+            {
+                number = number ^ (1UL << position1);
+                number = number ^ (1UL << position2);
+            }
+            position1++;
+            position2++;
+        }
+        Console.WriteLine(number);
     }
 }
