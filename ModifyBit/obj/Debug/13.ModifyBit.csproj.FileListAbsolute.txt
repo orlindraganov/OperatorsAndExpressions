@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ModifyBit\bin\Debug\ModifyBit.exe.config
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ModifyBit\obj\Debug\13.ModifyBit.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ModifyBit\bin\Debug\ModifyBit.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ModifyBit\bin\Debug\ModifyBit.pdb
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ModifyBit\obj\Debug\ModifyBit.exe
+D:\Orlinovski Tapotii\OperatorsAndExpressions\ModifyBit\obj\Debug\ModifyBit.pdb

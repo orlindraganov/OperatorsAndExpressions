@@ -27,21 +27,51 @@ class ModifyBit
     {
         ulong n = ulong.Parse(Console.ReadLine());
         byte p = byte.Parse(Console.ReadLine());
-        byte v = byte.Parse(Console.ReadLine());
-
+        ulong v = ulong.Parse(Console.ReadLine());
+        if (v == 1)
         {
-            if (v == 0)
-            {
-                ulong mask = ~(1UL << p);
-                ulong result = mask & n;
-                Console.WriteLine(result);
-            }
-            else
-            {
-                ulong mask = (1UL << p);
-                ulong result = mask | n;
-                Console.WriteLine(result);
-            }
+            n = n | (1UL << p);
         }
+        else
+        {
+            n = n & ~(1UL << p);
+        }
+
+        Console.WriteLine(n);
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        //{
+        //    if (v == 0)
+        //    {
+        //        ulong mask = ~(1UL << p);
+        //        ulong result = mask & n;
+        //        Console.WriteLine(result);
+        //    }
+        //    else
+        //    {
+        //        ulong mask = 1UL << p;
+        //        ulong result = mask | n;
+        //        Console.WriteLine(result);
+        //    }
+        //}
     }
 }
