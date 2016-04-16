@@ -26,6 +26,7 @@ class ModifyBit
     static void Main()
     {
         ulong n = ulong.Parse(Console.ReadLine());
+<<<<<<< HEAD
         byte p = byte.Parse(Console.ReadLine());
         ulong v = ulong.Parse(Console.ReadLine());
         if (v == 1)
@@ -39,6 +40,21 @@ class ModifyBit
 
         Console.WriteLine(n);
     
+=======
+        int p = int.Parse(Console.ReadLine());
+        ulong v = ulong.Parse(Console.ReadLine());
+
+        if (v == 1)
+        {
+            n = n | (1UL << p);
+        }
+        else
+        {
+            n = n & ~(1UL << p);
+        }
+
+        Console.WriteLine(n);
+>>>>>>> e0542d2353d8724a9b6a6d64e75f45a93efbbfe9
 
 
 
@@ -68,7 +84,11 @@ class ModifyBit
         //    }
         //    else
         //    {
+<<<<<<< HEAD
         //        ulong mask = 1UL << p;
+=======
+        //        ulong mask = (1UL << p);
+>>>>>>> e0542d2353d8724a9b6a6d64e75f45a93efbbfe9
         //        ulong result = mask | n;
         //        Console.WriteLine(result);
         //    }
